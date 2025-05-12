@@ -134,7 +134,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ------------------ FILE PATH SETUP ------------------
-data_dir = Path("E:/github/BOOK-WISE/data")
+data_dir = Path("data")
 goodreads_path = data_dir / "books.csv"
 kindle_path = data_dir / "kindle_data-v2.csv"
 

@@ -3,6 +3,8 @@
 📚 BookWise – Intelligent Book Recommendation System
 BookWise is a smart, personalized book recommendation web application that helps users discover their next favorite read. It analyzes book metadata from Goodreads and Kindle/Amazon datasets and recommends similar books using TF-IDF vectorization and Nearest Neighbors algorithms. The application is built with Python and powered by Streamlit for an interactive user interface.
 
+#LIVE APP--> https://bookwise1.streamlit.app/
+
 🚀 Features
 🔍 Search by Title: Suggests books similar to a searched title using semantic similarity.
 

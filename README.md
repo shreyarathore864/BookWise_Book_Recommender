@@ -85,8 +85,6 @@ Data: Goodreads and Amazon Kindle book datasets (CSV)
 
 ![Screenshot 2025-06-24 091625](https://github.com/user-attachments/assets/e6726ddb-8425-4138-85f3-6b3f263bb476)
 
-(You can paste screenshots manually in the GitHub README or attach in the repo.)
-
 ✨ Future Enhancements
 Add user login and favorite book tracking
 

@@ -29,23 +29,25 @@ BOOK-WISE/
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project description
 
+<img width="182" alt="image" src="https://github.com/user-attachments/assets/6f90bd54-bf97-468b-83b5-9b4b40846a53" />
+
+
 🛠️ Installation & Setup
 Clone the repository
+git clone https://github.com/shreyarathore864/BookWise_Book_Recommender.git
+cd BookWise_Book_Recommender
 
-git clone https://github.com/your-username/BOOK-WISE.git
-cd BOOK-WISE
 Create and activate a virtual environment
-
 python -m venv venv
 venv\Scripts\activate  # Windows
+
 Install dependencies
-
-
 pip install -r requirements.txt
 Run the application
 
-
+Run the application:
 streamlit run main.py
+
 The app will launch in your browser at http://localhost:8501.
 
 🧠 Tech Stack
